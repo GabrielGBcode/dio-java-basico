@@ -1,4 +1,6 @@
-public class Indentacao {
+package edu.gabriel.primeirasemana;
+
+public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 7;
         if (mediaFinal < 6) {
